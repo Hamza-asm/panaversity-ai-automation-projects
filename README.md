@@ -1,4 +1,7 @@
 # Panaversity-AI-Automation-Projects
+**Author:** Hamza Ali Khan
+
+**Email:** hamzasofficial1@gmail.com
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Repo](https://img.shields.io/badge/Type-AI%20Automation%20Projects-darkgreen.svg)]()
